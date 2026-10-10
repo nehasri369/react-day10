@@ -1,0 +1,29 @@
+.error{
+    background-color: red;
+    color: white;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.success{
+    background-color: green;
+    color: white;
+    margin-top: 10px;
+    font-weight: bold;
+
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkgrey;
+    height: 100vh;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 20px;
+}
